@@ -18,7 +18,7 @@ import java.util.List;
 @EnableAutoConfiguration
 @Configuration
  */
-
+//Kubus jest supi
 @RestController // jesli w tej klasie jakas metoda ma jakakolwiek adnotacje z "mapping"
 //beda uznane za rest endpoints
 public class Main {
